@@ -59,16 +59,6 @@ me.say_hi()
 
 <div align="center">
 
-## 🏆 GITHUB TROPHIES
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sujalsingh302005&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
 ## 🚀 PROJECTS THAT HIT DIFFERENT
 
 </div>
@@ -217,15 +207,6 @@ me.say_hi()
 
 ---
 
-<div align="center">
-
-## 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=sujalsingh302005&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 <div align="center">
 
